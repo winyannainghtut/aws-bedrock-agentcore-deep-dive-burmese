@@ -1,0 +1,28 @@
+# System Files
+.DS_Store
+Thumbs.db
+
+# IDEs and Editors
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+
+# Python Cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Scratch files
+scratch/
+temp/
+tmp/
+*.log
+
+# Persona/Skill instructions
+skill.md
+
